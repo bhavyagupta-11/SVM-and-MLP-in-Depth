@@ -1,4 +1,4 @@
-# Support-Vector-Machine and MLP Neural Network
+# Support Vector Machine and MLP Neural Network
 
 > In this project, we built a Support Vector Mechanism (SVM) algorithm and Multilayer Perceptron Neural Network from scratch and then
 implemented it in a step-by-step fashion. We learnt the underlying mathematical concepts of SVM and how to solve the optimization problem using different approaches. For MLP we implemented the forward anfd backward propogations and implemented it.
